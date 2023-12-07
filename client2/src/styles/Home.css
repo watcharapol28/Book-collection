@@ -1,0 +1,17 @@
+div {
+  background-image: linear-gradient(
+    to right top,
+    #88a8f0,
+    #8eabea,
+    #94ade3,
+    #9ab0dd,
+    #a0b2d6,
+    #99adce,
+    #92a9c7,
+    #8ca4bf,
+    #7698b4,
+    #5e8ba9,
+    #44809d,
+    #237490
+  );
+}
